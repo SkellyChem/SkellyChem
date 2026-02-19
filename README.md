@@ -2,7 +2,7 @@
 
 # Hi, I'm Seth 👋
 
-### 🔬 Biochemistry BS| Future Biophysics PhD 
+### 🔬 Biochemistry BS | Future Biophysics PhD 
 
 I am a senior at **Brigham Young University** studying Biochemistry, transitioning to a **PhD in Biophysics at the University of Wisconsin-Madison** in Fall 2026. My research interest lies at the capabilities high-resolution mass spectrometry and it's uses in proteomics and imaging.
 
