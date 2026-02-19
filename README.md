@@ -22,6 +22,7 @@ I currently work in the **Gassaway Lab at BYU**, focusing on:
 I believe the next generation of biological discovery happens in the code as much as at the bench. I am actively building my skills to bridge this gap:
 * **Coding:** Using **Python (Pandas, NumPy)** to automate data processing and statistical validation.
 * **Collaboration:** Sharing my programmed workflows publicly so other researchers can spend less time cleaning data and more time performing experiments.
+*  **Benchtop Experience:** Learning vital techniques such as DNA cloning, mutagenesis, Western Blot, Protein Preparation for Mass Spectrometry, TMT labelling and more!
 
 
 ---
